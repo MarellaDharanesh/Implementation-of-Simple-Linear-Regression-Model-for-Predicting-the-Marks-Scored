@@ -76,6 +76,32 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 ## Output:
+![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/e676086e-fbf2-4fa8-b375-9a6cba57cc65)
+
+
+
+![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/d6a23098-482a-4063-ab60-5c1ed2c9a108)
+
+
+
+
+![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/01304742-0f72-4f13-aa72-14e1acd8ee2c)
+
+
+
+
+![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/12c9b8aa-69fb-464a-8b3b-4aea7f68b604)
+
+
+
+![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/982cb043-de13-4740-9986-08507193ca09)
+
+![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/04a69139-0d55-42c4-a185-9eaa79e956fd)
+![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/06f821ea-8018-4168-b1a2-509b2c7ff043)
+
+
+
+![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/a16ff482-cc93-4c0b-8b71-b5c12dacb153)
 
 
 
