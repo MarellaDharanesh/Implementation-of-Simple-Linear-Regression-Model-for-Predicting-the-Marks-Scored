@@ -17,8 +17,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Program:
 ```
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: MARELLA DHARANESH
-RegisterNumber: 212222240062 
+Developed by: Marella Dharanesh
+RegisterNumber: 212222240062
 ```
 ```python
 import pandas as pd
@@ -76,33 +76,39 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 ## Output:
-![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/e676086e-fbf2-4fa8-b375-9a6cba57cc65)
+### df.head()
 
+![Screenshot from 2023-09-01 07-21-27](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/657d1d92-38a9-4094-8ed9-1f34525fc339)
 
+### df.tail()
 
-![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/d6a23098-482a-4063-ab60-5c1ed2c9a108)
+![Screenshot from 2023-09-13 19-19-23](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/6baf3d89-3554-4a80-ba75-b029b2731d7e)
 
+### Array value of X
 
+![Screenshot from 2023-09-01 07-21-38](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/572364a4-56b9-4a22-8d24-8546d76438df)
 
+### Array value of Y
 
-![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/01304742-0f72-4f13-aa72-14e1acd8ee2c)
+![Screenshot from 2023-09-01 07-21-53](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/c07d1859-8927-4097-9343-f8cba764cc8f)
 
+### Values of Y prediction and Values of Y prediction
 
+![Screenshot from 2023-09-01 07-22-04](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/c5f7ac09-c0f8-48bc-944c-3256eb75213d)
 
+![Screenshot from 2023-09-01 07-22-17](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/a28462a2-1ae2-41be-9965-4d8897088ca9)
 
-![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/12c9b8aa-69fb-464a-8b3b-4aea7f68b604)
+### Training Set Graph
 
+![Screenshot from 2023-09-01 07-22-26](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/edbb21da-2800-4d93-9db2-c922c6def611)
 
+### Test Set Graph
 
-![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/982cb043-de13-4740-9986-08507193ca09)
+![Screenshot from 2023-09-01 07-22-33](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/b61ed986-b31d-46c4-978d-3e5a037e5272)
 
-![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/04a69139-0d55-42c4-a185-9eaa79e956fd)
-![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/06f821ea-8018-4168-b1a2-509b2c7ff043)
+### Values of MSE, MAE and RMSE
 
-
-
-![image](https://github.com/MarellaDharanesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707669/a16ff482-cc93-4c0b-8b71-b5c12dacb153)
-
+![Screenshot from 2023-09-01 07-22-46](https://github.com/Gchethankumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118348224/82744637-d103-4e83-848e-8580a48c6060)
 
 
 ## Result:
